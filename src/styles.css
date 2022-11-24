@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.search {
+  width: 180px;
+  color: rgb(38, 17, 158);
+}
+.username {
+  color: red;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
+  height: 25px;
+}
+.userlist {
+  list-style: none;
+}
